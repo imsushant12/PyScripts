@@ -1,6 +1,8 @@
 ## PyScripts
-<p align = center>
-![images](./logo.png)
+
+<p align="center">
+  <img src="./logo.png" />
+</p>
 
 ### ⭐ What is PyScripts?
 PyScripts contains amazing and awesome scripts. Feel free to add any new script that can make life easier for us.
