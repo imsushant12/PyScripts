@@ -2,7 +2,7 @@
 from time import time
 
 if __name__ == "__main__":
-    intitial_time = time()
+    initial_time = time()
 
     """
     # Our code, for example:
@@ -14,4 +14,4 @@ if __name__ == "__main__":
     """
 
     final_time = time()
-    print("Code execution time:", str(final_time - intitial_time))
+    print("Code execution time:", str(final_time - initial_time))
