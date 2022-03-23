@@ -1,12 +1,15 @@
-# Module used - **os**
+## What does this script do?
+The script will take the path of the directory, the file name that is not to be changed, and the extension of the changeable files from the user. It will change the names of specified extension files serially. 
 
-## To get the path of the files, we can use chdir() function.
-
-Initially, we will take the path of the directory, file name that is not to be changed, and extension of the changeable files from the user.
-
-## To get the files and directories of a directory, we can use listdir() function.
-
-After that, we will take a variable for numbering the files. We will run a loop over all the files. If the current file is to be changed, rename them serially. 
-
-## How to rename the files?
+## How to rename the files using this script?
 Provide the three input asked and the files will be renamed.
+
+## Module used - **os**
+
+## Important function used:
+#### 1. chdir() function, to get the path of the files.
+#### 2. listdir() function, to get the inner files and directories of a directory.
+
+## How to use it?
+- Just run the `.exe` file, and provide the certain details asked.
+- Also you can manually run `main.py` file using `python main.py`.
